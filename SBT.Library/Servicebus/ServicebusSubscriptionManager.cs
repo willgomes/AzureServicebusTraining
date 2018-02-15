@@ -37,7 +37,7 @@ namespace SBT.Library.Servicebus
             }
             catch ( Exception ex )
             {
-                //To Implemenet
+                new NotImplementedException();
             }
         }
 
@@ -65,7 +65,7 @@ namespace SBT.Library.Servicebus
             }
             catch ( Exception ex )
             {
-                //To Implemenet
+                new NotImplementedException();
             }
         }
 
@@ -83,7 +83,7 @@ namespace SBT.Library.Servicebus
             }
             catch ( Exception ex )
             {
-                //To Implemenet
+                new NotImplementedException();
             }
         }
 
